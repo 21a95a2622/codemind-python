@@ -11,3 +11,4 @@ if n==1 or n==7:
     print("True")
 else:
     print("False")
+        
